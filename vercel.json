@@ -1,0 +1,13 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/Heritage-Realt.html"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/Heritage-Realt.html"
+    }
+  ]
+}
